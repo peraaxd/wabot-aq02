@@ -43,7 +43,7 @@ Simple WhatsApp Bot
   **note : edit di repository milik kalian sendiri**
   
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rasssya76/wabot-aq02/tree/patch-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/peraaxd/wabot-aq02/tree/patch-1)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
